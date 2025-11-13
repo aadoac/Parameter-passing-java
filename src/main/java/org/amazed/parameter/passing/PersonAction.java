@@ -18,7 +18,6 @@ public class PersonAction {
             newPerson.setLastName(newLastName);
             newPerson.setEnable(true);
             person.setEnable(false);
-            return newPerson;
         } catch (CloneNotSupportedException e) {
             System.out.println("Cloning error: " + e.getMessage() );
         }
