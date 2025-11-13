@@ -1,4 +1,4 @@
-# Parameter passing strategy in Java
+# Strategy for Parameter Passing in Java
 
 This project serves as a demonstration of how to pass parameters in a Java application.
 
