@@ -6,7 +6,7 @@
 
     <groupId>org.amazed.parameter.passing</groupId>
     <artifactId>Parameter-passing-java</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
