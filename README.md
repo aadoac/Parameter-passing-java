@@ -2,5 +2,5 @@
 
 This project serves as a demonstration of how to pass parameters in a Java application.
 
-## References
-Please see [here](http://) for more details.
+## Reference
+Please see [here](https://aadoac.github.io/java/parameter_passing.html) for more details.
